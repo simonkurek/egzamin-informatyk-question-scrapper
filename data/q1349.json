@@ -1,0 +1,1 @@
+{"nr": 1349, "question": "Kt\u00f3re polecenie systemu Windows wy\u015bwietla tabele routingu hosta?", "answer1": "A. netstat -n", "answer2": "B. ipconfig /renew", "answer3": "C. ipconfig /release", "answer4": "D. netstat -r", "img_src": "", "correct_answer": "D"}

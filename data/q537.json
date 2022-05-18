@@ -1,0 +1,1 @@
+{"nr": 537, "question": "W systemie Windows 7 w celu skopiowania katalogu c:\test wraz z podkatalogami na dysk przeno\u015bny, nalezy u\u017cy\u0107 polecenia", "answer1": "A. xcopy c:\test f:\test /E", "answer2": "B. copy c:\test f:\test /E", "answer3": "C. xcopy f:\test c:\test /E", "answer4": "D. copy f:\test c:\test /E", "img_src": "", "correct_answer": "A"}
